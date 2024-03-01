@@ -1,0 +1,29 @@
+{
+  "tareas": [
+    {
+      "id": 3,
+      "fecha": "8/2/2024",
+      "tarea": "UPDATE"
+    },
+    {
+      "id": 4,
+      "tarea": "Hacer la comida",
+      "fecha": "25/2/2024"
+    },
+    {
+      "tarea": "tarea del fian l",
+      "fecha": "6/1/2023",
+      "id": 5
+    },
+    {
+      "id": 7,
+      "fecha": "4/3/2024",
+      "tarea": "Pruea"
+    },
+    {
+      "tarea": "Examen de despliegue",
+      "fecha": "11/4/2024",
+      "id": 8
+    }
+  ]
+}
